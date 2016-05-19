@@ -16,6 +16,7 @@ public class AppSwing {
      */
     public static void main(String[] args) {
         System.out.println("java swing example running ...");
+        System.out.println("hheheheheeheheh");
     }
     
 }
